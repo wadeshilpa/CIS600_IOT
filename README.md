@@ -26,3 +26,13 @@ ThingSpeak Dashboard - sensors data:
 ![CO2_sensor_data](https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/1f2824e8-80c4-4821-acf6-02f4daec6f8d)
 
 -----------------------------------------------------------------------------------------------------
+
+5 Hours Sensor data:
+
+<img width="462" alt="Temperature_5hours" src="https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/4283cdfb-58c4-4d98-a3ea-de344e366fdf">
+
+<img width="457" alt="Humidity_5Hours" src="https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/555538b4-3154-421e-b8e1-b3b387bb7269">
+
+<img width="460" alt="CO2_5Hours" src="https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/685605bf-b708-4c14-be96-99fcf120d08d">
+
+-----------------------------------------------------------------------------------------------------
