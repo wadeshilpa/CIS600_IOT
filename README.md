@@ -1,4 +1,4 @@
-CIS-600 Internet of Things - Assignment 3
+# CIS-600 Internet of Things - Assignment 3
 
 A cloud-based IoT system for collecting data from virtual sensors using MQTT protocol and ThingSpeak as the cloud-based backend for data storage and visualization.
 
