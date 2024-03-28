@@ -8,11 +8,12 @@ Steps used in developing the IOT system
 4. Data Monitoring and Analysis: Data was published to the ThingSpeak channel as payloads using the Paho MQTT library and MQTT Topic. Analyzed the data and tracked sensor readings to ensure proper data release.
 
 Console output:
-https://github.com/wadeshilpa/CIS600_IOT/blob/d2a386ae8e1451d9bcf10bfc776fe8484340234d/Console_output.png
+
+<img width="946" alt="Console_output" src="https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/d66d9f65-4b3f-4e69-95d0-962b63f998e8">
 
 ThingSpeak Dashboard - sensors data:
-https://github.com/wadeshilpa/CIS600_IOT/blob/d2a386ae8e1451d9bcf10bfc776fe8484340234d/Temperature_sensor_data.png
+![Temperature_sensor_data](https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/181e591a-823c-48fb-9c52-6ce84774a038)
 
-https://github.com/wadeshilpa/CIS600_IOT/blob/d2a386ae8e1451d9bcf10bfc776fe8484340234d/Humidity_sensor_data.png
+![Humidity_sensor_data](https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/d12a70df-5258-4b36-9a2a-36dac55a2653)
 
-https://github.com/wadeshilpa/CIS600_IOT/blob/d2a386ae8e1451d9bcf10bfc776fe8484340234d/CO2_sensor_data.png
+![CO2_sensor_data](https://github.com/wadeshilpa/CIS600_IOT/assets/160187057/1f2824e8-80c4-4821-acf6-02f4daec6f8d)
